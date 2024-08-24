@@ -2,7 +2,7 @@
 
 ## Overview
 
-This README provides an overview of various libraries and frameworks across four popular programming ecosystems: React, Node.js, Python, and Flask. Each section highlights key libraries and frameworks that enhance development efficiency, facilitate best practices, and streamline workflows.
+This README provides an overview of various libraries and frameworks across four popular programming ecosystems: `React`, `Node.js`, `Python`, and `Flask`. Each section highlights key libraries and frameworks that enhance development efficiency, facilitate best practices, and streamline workflows.
 
 ## Contents
 
